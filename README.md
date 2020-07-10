@@ -1,16 +1,13 @@
-### Hi there 👋
+# Joan Pedro :man_technologist:
 
-<!--
-**JoanPedro/JoanPedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/JoanPedro)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/joan-pedro)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:jpos.senai@gmail.com)
 
-Here are some ideas to get you started:
+## Hi,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Joan Pedro and i'm a Full Stack developer, who is passionate about JavaScript technology and its entire ecosystem.
+
+ - :telescope: I'm currently working on JavaScript, Swift  and Angular app/systems;
+ - 🌱 I'm currently learning Tests, DevOps, ReactJS, React-native and of course JS; 
+ - :mag_right: Technologies: AngularJS/2+, VueJS, NodeJS, Swift.
