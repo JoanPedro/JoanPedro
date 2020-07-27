@@ -9,5 +9,5 @@
 My name is Joan Pedro and i'm a Full Stack developer, who is passionate about JavaScript technology and its entire ecosystem.
 
  - :telescope: I'm currently working on JavaScript, Swift  and Angular app/systems;
- - 🌱 I'm currently learning Tests, DevOps, ReactJS, React-native and of course JS; 
+ - 🌱 I'm currently learning Tests, DevOps, ReactJS, Kotlin and of course Typescript; 
  - :mag_right: Technologies: AngularJS/2+, VueJS, NodeJS, Swift.
