@@ -6,10 +6,10 @@
 
 ## Hi,
 
-My name is Joan Pedro and i'm a Full Stack developer, who is passionate about JavaScript technology and its entire ecosystem.
+My name is Joan Pedro and i'm a Full Stack developer, who is passionate about Java/JavaScript technology and its entire ecosystem.
 
- - :telescope: I'm currently working on JavaScript, Flutter  and Angular app/systems;
- - 🌱 I'm currently learning TDD, SOLID, DevOps, ReactJS and of course Typescript; 
- - :mag_right: Technologies: AngularJS/2+, ReactJS, NodeJS, Flutter.
+ - :telescope: I'm currently working on Java app/systems;
+ - 🌱 I'm currently learning TDD, SOLID, DevOps, ReactJS and of course Java & Typescript; 
+ - :mag_right: Technologies: AngularJS/2+, NodeJS, Flutter, Java 8+.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoanPedro&langs_count=8)](https://github.com/JoanPedro/github-readme-stats)
